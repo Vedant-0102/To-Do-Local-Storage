@@ -2,6 +2,8 @@
 
 A simple web application built using HTML, CSS, and JavaScript that stores data in the browser to persist across page reloads. It includes features to edit and delete stored data.
 
+Refresh Your Browser and your tasks will still be stored.
+
 ## ✨ Features
 
 - **🗂 Data Persistence:** Stores data in the browser using LocalStorage.
