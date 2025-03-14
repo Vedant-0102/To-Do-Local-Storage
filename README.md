@@ -24,7 +24,9 @@ A simple web application built using HTML, CSS, and JavaScript that stores data 
 ## 📸 Screenshots
 
 ### Landing Page:
-![Landing Page](https://github.com/Vedant-0102/Connect-4/blob/main/connect4/assets/Landing.png)
+![Landing Page](https://github.com/Vedant-0102/To-Do-Local-Storage/blob/main/assets/Landing.png)
+
+![Add_task Page](https://github.com/Vedant-0102/To-Do-Local-Storage/blob/main/assets/Add_task.png)
 
 ## 📥 Installation & Usage
 
